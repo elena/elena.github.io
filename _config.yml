@@ -1,3 +1,5 @@
 name: Elena Williams
 markdown: redcarpet
 pygments: true
+
+permalink: /:year/:month/:day/:categories/:title.html
