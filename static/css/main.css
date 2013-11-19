@@ -27,7 +27,7 @@ h1 { margin-bottom: 1em; }
 
 h1, h2, h3, h4 {font-family: Times, serif; text-shadow: 0 0 1px #444;-moz-text-shadow: 0 0 1px #444;-webkit-text-shadow: 0 0 1px #444;}
 
-body, #ct {color: #222;}
+body, .ct, #ct {color: #222;}
 
 p { margin: 1em 0; }
 
@@ -212,6 +212,7 @@ h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/}
 a, a:visited {text-decoration: none;}
 
 body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
+.ct {background-color:rgba(255,255,255,0.4);}
 #ct {background-image:url(/static/img/trans-fff85.png);}
 #fs {background: url(/static/img/fs.png) no-repeat center bottom;}
 
@@ -226,16 +227,16 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #crl, .lt, #lh, .pt {float: left;}
 #crr, .rt, #rh {float: right;}
 
-#ct {max-width: 750px;}
-#ct {min-height: 600px;}
+.ct, #ct {max-width: 750px;}
+.ct, #ct {min-height: 600px;}
 
-#ct {margin: 45px auto 0 auto;}
+.ct, #ct {margin: 45px auto 0 auto;}
 #fs {margin: 0 auto;}
 .ig {margin: 0 10px 5px 0;}
 #cn {margin: 0 10px;}
 
-#ct {padding: 15px;}
-#ct {text-align: left;}
+.ct, #ct {padding: 15px;}
+.ct, #ct {text-align: left;}
 #tt {text-align: right;}
 #ft, #sw {text-align: center;}
 
@@ -249,7 +250,7 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 /* footer */
 #ft{
 color: white;
-text-shadow: 2px 2px 0px #64B1C6;
+/* text-shadow: 2px 2px 0px #64B1C6; */
 text-align: left;
 padding-top: 40px;
 padding-bottom: 20px;
@@ -264,7 +265,7 @@ background:url(/static/img/bgb.png) top;
 #ea {left: -90px;  margin-top: -53px;}
 #tc {left: -75px;}
 
-#cn, #ct, #ct section, #fs, #pr {clear: both;}
+#cn, .ct, #ct, #ct section, #fs, #pr {clear: both;}
 
 
 /* sw */
