@@ -29,6 +29,7 @@ h1, h2, h3, h4 {font-family: Times, serif; text-shadow: 0 0 1px #444;-moz-text-s
 
 body, .ct, #ct {color: #222;}
 
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -78,6 +79,7 @@ a:visited { color: #a0a; }
 
 .posts span {
   color: #64B1C6;
+  /* color: #aaa; */
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
@@ -230,11 +232,11 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 
 .ct, #ct {max-width: 750px;}
 .ct, #ct {min-height: 600px;}
-
 .ct, #ct {margin: 45px auto 0 auto;}
 #fs {margin: 0 auto;}
 .ig {margin: 0 10px 5px 0;}
 #cn {margin: 0 10px;}
+
 
 .ct, #ct {padding: 15px;}
 .ct, #ct {text-align: left;}
@@ -252,6 +254,7 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #ft{
 color: white;
 /* text-shadow: 2px 2px 0px #64B1C6; */
+text-shadow: 2px 2px 0px #64B1C6;
 text-align: left;
 padding-top: 40px;
 padding-bottom: 20px;
@@ -261,13 +264,13 @@ background:url(/static/img/bgb.png) top;
 /* corners */
 #ea, #tt, #tc, #crr, #crl {position: relative; z-index: 100;}
 #crl {float: left; margin-top: -16px; left: -27px;}
-#crr {float: right; margin-top: -143px; right: -27px;}
+#crr {float: right; margin-top: -118px; right: -27px;}
 #tt {margin-top: -16px; right: -50px;}
 #ea {left: -90px;  margin-top: -53px;}
 #tc {left: -75px;}
 
-#cn, .ct, #ct, #ct section, #fs, #pr {clear: both;}
 
+#cn, .ct, #ct, #ct section, #fs, #pr {clear: both;}
 
 /* sw */
 .swd {height: 150px; width: 32px;}
