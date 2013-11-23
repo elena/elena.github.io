@@ -12,10 +12,10 @@ Same credits though: Late Night Live talking about [Life and Happiness][lnl]
 
 Believe it or not the internet doesn't have the quote as I heard it but it goes something like:
 
-{% highlight sh %}
+```
   Night conceals the world,
     but reveals the universe.
-{% endhighlight %}
+```
 
 Isn't that lovely.
 
