@@ -206,7 +206,7 @@ a {color: #6491b4;}
 a:visited {color: #888;}
 a:hover   {color: #254982;}
 h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/}
-#tt h3 {color: #666}
+#tt h3 {color: #666; padding: 25px;}
 #sw a{color: #fff; font-weight:bold;}
 
 a, a:visited {text-decoration: none;}
@@ -260,7 +260,7 @@ background:url(/static/img/bgb.png) top;
 /* corners */
 #ea, #tt, #tc, #crr, #crl {position: relative; z-index: 100;}
 #crl {float: left; margin-top: -16px; left: -27px;}
-#crr {float: right; margin-top: -118px; right: -27px;}
+#crr {float: right; margin-top: -143px; right: -27px;}
 #tt {margin-top: -16px; right: -50px;}
 #ea {left: -90px;  margin-top: -53px;}
 #tc {left: -75px;}
