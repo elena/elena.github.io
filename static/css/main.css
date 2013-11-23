@@ -73,10 +73,11 @@ a:visited { color: #a0a; }
 
 .posts li {
   line-height: 1.75em;
+  color: #666;
 }
 
 .posts span {
-  color: #aaa;
+  color: #64B1C6;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
