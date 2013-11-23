@@ -21,4 +21,4 @@ Deontic logic is the field of logic that is concerned with obligation, permissio
 
 ---
 
-Stonking nice word from [http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/](http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/).
+Stonking nice word from quite serious post about terrible management here: [http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/](http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/).
