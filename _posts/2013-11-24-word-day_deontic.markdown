@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "word-day_deontic"
+title: "Word of the Day: Deontic"
 date: "2013-11-23 13:12:14 +1100"
 categories: word, of-the-day
 ---
