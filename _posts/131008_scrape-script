@@ -1,0 +1,8 @@
+import os, requests
+u = 'http://clients.thecut.net.au/nhg/widget/%s.jpg'
+
+for x in range(1,9):
+    r = requests.get(u % x)
+    f = open(os.getcwd()+'/'+str(x)+'.jpg', 'w+')
+    f.write(r.content)
+    f.close()
