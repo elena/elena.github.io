@@ -22,6 +22,11 @@ body {
   text-align: center;
 }
 body {font-family: 'Merriweather', serif;}
+#ft .ct {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*color: rgba(255, 255, 255, 0.96);*/
+/*color: #e9f6fe;*/
+color: rgba(244, 251, 255, 0.91);
+}
 
 h1 { margin-bottom: 1em; }
 
@@ -96,12 +101,13 @@ a:visited { color: #a0a; }
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
-
+/*
 .header a {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
   text-decoration: none;
 }
+*/
 
 .title {
   display: inline-block;
@@ -163,10 +169,14 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 /* standard */
+.post code,
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border: 1px solid  rgba(50, 50, 50, 0.33);
+  background-color:  rgba(0, 0, 0, 0.33);;
+/*  border: 1px solid #ddd;
+  background-color: #eef;*/
   padding: 0 .4em;
+  margin: 0 1em;
 }
 
 .post ul, .post ol {
@@ -174,9 +184,7 @@ a:visited { color: #a0a; }
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+  padding: .3em;
 }
 
 .post pre code {
@@ -186,8 +194,9 @@ a:visited { color: #a0a; }
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
+  background-color: black;
+/*  background-color: #333;
+/*  color: #FFF;*/
 }
 
 .post pre.terminal code {
@@ -208,11 +217,14 @@ a:visited { color: #a0a; }
 a {color: #6491b4;}
 a:visited {color: #888;}
 a:hover   {color: #254982;}
-h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/}
+h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/; margin: 1em 0; text-shadow: 0 0 4px #222;}
 #tt h3 {color: #666; padding: 25px;}
+h4 {color: #999;}
 #sw a{color: #fff; font-weight:bold;}
 
 a, a:visited {text-decoration: none;}
+
+em {color: #bccdd7;}
 
 body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 .ct {background-color:rgba(255,255,255,0.4);}
@@ -226,6 +238,7 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #sw5 {background-color: #666666; }
 
 .pt {background:url(frame.png) no-repeat; padding: 9px 20px;}
+#ft .ct {background-color: rgba(0, 0, 0, 0.33); border: 1px solid #444;}
 
 #crl, .lt, #lh, .pt {float: left;}
 #crr, .rt, #rh {float: right;}
@@ -253,8 +266,7 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 /* footer */
 #ft{
 color: white;
-/* text-shadow: 2px 2px 0px #64B1C6; */
-text-shadow: 2px 2px 0px #64B1C6;
+text-shadow: 0 0 2px #333;
 text-align: left;
 padding-top: 40px;
 padding-bottom: 20px;
