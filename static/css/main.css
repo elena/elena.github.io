@@ -25,7 +25,8 @@ body {font-family: 'Merriweather', serif;}
 #ft .ct {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 /*color: rgba(255, 255, 255, 0.96);*/
 /*color: #e9f6fe;*/
-color: rgba(244, 251, 255, 0.91);
+/* color: rgba(244, 251, 255, 0.91);*/
+color: rgba(184,184,184, 0.71);
 }
 
 h1 { margin-bottom: 1em; }
