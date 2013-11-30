@@ -1,9 +1,36 @@
----
-layout: default
----
+{% include header.html %}
+
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
-{{ content }}
+
+  {{ content | markdownify }}
+
 </div>
+<br />
+
+
+<br />
+<br />
+<br />
+<!-- <hr style="clear:both;"> -->
+
+	</div><!-- END cn -->
+<!-- END ct -->
+</div>
+
+{% include social.html %}
+<center>
+<div id="surprise" style="display: none; ">
+    <footer>
+      <a href="http://djangoproject.com">Django - The webframework for ponies with magical powers</a>
+    </footer>
+</div>
+<div id="pony_power"> &nbsp;
+    <img onclick="$('#surprise').toggle(); $('#pony_power').toggle():" src="/static/img/django_pony_powered.png" width="210" height="65" alt="pony powered" title="click me! click me! click me!!">
+</div>
+</center>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+    </body>
+</html>
