@@ -252,10 +252,9 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #sw4 {background-color: #b9c1d0;}
 #sw5 {background-color: #666666; }
 
-#ct {border: 1px solid #f6f6f6; box-shadow: 0 0 30px #b9b9b9;}
 
 .pt {background:url(frame.png) no-repeat; padding: 9px 20px;}
-#ft .ct {background-color: rgba(0, 0, 0, 0.33); border: 1px solid #444;}
+#ft .ct {background-color: rgba(0, 0, 0, 0.33);}
 
 #crl, .lt, #lh, .pt {float: left;}
 #crr, .rt, #rh {float: right;}
@@ -314,6 +313,13 @@ background:url(/static/img/bgb.png) top;
 .swd {border-right: 1px solid #fff;}
 #sw1 {border-top: 1px solid #fff;}
 #sw5 {border-bottom: 1px solid #fff;}
+#ct  {border: 1px solid #f6f6f6;}
+#ft .ct {border: 1px solid rgba(0,0,0,0.1);}
+
+#ct {box-shadow: 0 0 30px #b9b9b9;}
+#ft .ct {box-shadow: 0 0 30px rgba(0,0,0,0.5);}
+
+
 
 #sw1 {}
 #sw2 {background-position: -30px 0;}
