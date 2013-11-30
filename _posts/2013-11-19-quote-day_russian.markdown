@@ -3,7 +3,7 @@ layout: post
 title: "Quote of the Day: Russian wisdom"
 date: 2013-11-19 19:32
 comments: true
-categories:
+categories: quote of-the-day
 ---
 
 This is actually my second quote of today but don't tell anyone.

@@ -1,5 +1,6 @@
 ---
 layout: post
-title: ""
+title: "CompCon Talk"
 ---
 
+The slides from my CompCon Talk.
