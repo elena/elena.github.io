@@ -234,7 +234,8 @@ h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/; margin: 1em 0; }
 .ct h1 {margin: 0 0 1em 0; color: #999;}
 .ct h1, .ct h2, .ct h3, .ct h4 {text-shadow: 0 0 4px #222;}
 .ct h4 {color: #999;}
-#tt h3 {color: #666; padding: 25px 0 0 25px;}
+#sc, #tt h3 {color: #666;}
+
 #sw a{color: #fff; font-weight:bold;}
 
 a, a:visited {text-decoration: none;}
@@ -252,7 +253,6 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #sw4 {background-color: #b9c1d0;}
 #sw5 {background-color: #666666; }
 
-
 .pt {background:url(frame.png) no-repeat; padding: 9px 20px;}
 #ft .ct {background-color: rgba(0, 0, 0, 0.33);}
 
@@ -266,10 +266,11 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 .ig {margin: 0 10px 5px 0;}
 #cn {margin: 0 10px;}
 
-
 .ct, #ct {padding: 15px;}
+#tt h3   {padding: 25px 0 0 25px;}
+
 .ct, #ct {text-align: left;}
-#tt {text-align: right;}
+#tt      {text-align: right;}
 #ft, #sw {text-align: center;}
 
 .lt, #tt {width: 300px;}
@@ -298,7 +299,8 @@ background:url(/static/img/bgb.png) top;
 #tc {left: -75px;}
 
 
-#cn, .ct, #ct, #ct section, #fs, #pr {clear: both; display: table;}
+#cn, .ct, #ct, #ct section, #fs, #pr {clear: both;}
+#cn, .ct, #ct, #ct section, #pr {display: table;}
 
 /* sw */
 .swd {height: 150px; width: 32px;}
@@ -345,26 +347,27 @@ background:url(/static/img/bgb.png) top;
 
 .mw { text-align:center; color: #999; font-size: 3.em;
 /*font-family: Arial, Helvetica, sans-serif; */}
-#test2 { margin-top: -25px;}
+#t2 { margin-top: -25px;}
 #pr{margin-top: 30px;}
 
-#surprise {background: url('/static/img/footer-bg.png') no-repeat scroll top left;
-width: 833px;
-height: 290px;
-position: relative;
-margin:0 auto;
+#surprise {
+  background: url('/static/img/footer-bg.png') no-repeat scroll top left;
+  width: 833px;
+  height: 290px;
+  position: relative;
+  margin:0 auto;
 }
 
 #surprise a {
-    position: absolute;
-    top: 145px;
-    left: 215px;
-    height: 100px;
-    width: 600px;
-    background: url('/static/img/django-footer-rollover.png') no-repeat;
-    overflow: hidden;
-    text-indent: -50000px;
-    border: none;
+  background: url('/static/img/django-footer-rollover.png') no-repeat;
+  border: none;
+  height: 100px;
+  left: 215px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: -50000px;
+  top: 145px;
+  width: 600px;
 }
 #surprise a:hover, #surprise a:active { background-position:0 -101px ; }
 pre {border: 1px solid #ddd; background-color: #eee; padding: 3px 8px;margin: 5px;}
