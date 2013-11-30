@@ -33,7 +33,6 @@ $(document).ready(function(){
 <!-- END ct -->
 
 <center>
-
 <div id="surprise" style="display: none; ">
     <footer>
       <a href="http://djangoproject.com">Django - The webframework for ponies with magical powers</a>
@@ -42,5 +41,6 @@ $(document).ready(function(){
 <div id="pony_power"> &nbsp;
     <img onclick="$('#surprise').toggle(); $('#pony_power').toggle():" src="/static/img/django_pony_powered.png" width="210" height="65" alt="pony powered" title="click me! click me! click me!!">
 </div>
+<center>{% include source.html %}</center>
 </center>
 {% include footer.html %}
