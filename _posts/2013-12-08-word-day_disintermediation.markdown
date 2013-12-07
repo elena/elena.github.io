@@ -17,7 +17,7 @@ In economics, disintermediation is the removal of intermediaries in a supply cha
 
 [http://en.wikipedia.org/wiki/Disintermediation](http://en.wikipedia.org/wiki/Disintermediation)
 
-`Dis -- inter -- media -- tion` yummy!
+`Dis -- inter -- me-diatory` yummy!
 
 
 ---
@@ -28,14 +28,29 @@ Late this arvo discovered the [TEDxWallStreet](http://tedxwallstreet.com/categor
 
 The context of this word is then easy to imagine but specifically was from an OK talk about "crowdsourced capitalism" by a guy who really does not understand what that term means. But his use of **disintermediation** (or he might have even said **disintermediary**) just impressed me.
 
+--
+
+So, what talks **did** I like?
+
+Well all these guys I wanted to hate as rich older white males ("fitting a stereotype with those guys"), yet annoyingly seemed to be talking reason:
+
+<div style="float: left; width: 234px;">
+<iframe width="234" height="131" src="//www.youtube.com/embed/EYM5dqZgcYw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="float: left; width: 234px; margin-left: 14px;">
+<iframe width="234" height="131" src="//www.youtube.com/embed/f4ACUn5iHqI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="float: left; width: 234px; margin-left: 14px;">
+<iframe width="234" height="131" src="//www.youtube.com/embed/YSnIcVFLLsw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
-What talks **did** I like? Well all these guys I wanted to hate as excessively rich older white males ("fitting a stereotype with those guys"), but annoyingly seemed to be talking reason:
-
-(http://www.youtube.com/watch?v=EYM5dqZgcYw)[http://www.youtube.com/watch?v=EYM5dqZgcYw]
-
-(http://www.youtube.com/watch?v=f4ACUn5iHqI)[http://www.youtube.com/watch?v=f4ACUn5iHqI]
-
-(http://www.youtube.com/watch?v=YSnIcVFLLsw)[http://www.youtube.com/watch?v=YSnIcVFLLsw]
+[http://www.youtube.com/watch?v=EYM5dqZgcYw](http://www.youtube.com/watch?v=EYM5dqZgcYw)<br>
+[http://www.youtube.com/watch?v=f4ACUn5iHqI](http://www.youtube.com/watch?v=f4ACUn5iHqI)<br>
+[http://www.youtube.com/watch?v=YSnIcVFLLsw](http://www.youtube.com/watch?v=YSnIcVFLLsw)
 
 The first guy in particular, I was like "here we go", but they all seem to recognise that there is badness going on and that's interesting to know.
+
+*Warning*: these talks are very businessy.
