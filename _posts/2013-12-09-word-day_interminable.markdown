@@ -15,8 +15,10 @@ adjective: interminable
 
 1. endless (often used hyperbolically).
 "we got bogged down in interminable discussions"
-synonyms:	(seemingly) endless, never-ending, unending, nonstop, everlasting, ceaseless, unceasing, incessant, constant, continual, uninterrupted, sustained; More
-Origin
+synonyms:	(seemingly) endless, never-ending, unending, nonstop, everlasting, ceaseless, unceasing, incessant, constant, continual, uninterrupted, sustained;
+
+
+#### Origin
 
 late Middle English: from Old French, or from late Latin interminabilis, from in- ‘not’ + terminare (see terminate).
 
