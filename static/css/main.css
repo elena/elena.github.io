@@ -287,7 +287,7 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 
 .ct, #ct {text-align: left;}
 #tt      {text-align: right;}
-#ft, #sw {text-align: center;}
+#ft, #sw, #pc {text-align: center;}
 
 .lt, #tt {width: 300px;}
 #lh, #rh {width: 360px;}
@@ -295,6 +295,10 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #ft .ct, #hr {width: 750px;}
 #sc, #cn {width: 730px;}
 #tt {width: 690px;}
+
+/* podcast */
+
+#pc {clear: both; border-top: 1px dotted #cdcdcd; margin-top: 70px;}
 
 /* footer */
 #ft{
@@ -334,9 +338,8 @@ background:url(/static/img/bgb.png) top;
 #ct  {border: 1px solid #f6f6f6;}
 #ft .ct {border: 1px solid rgba(0,0,0,0.1);}
 
-#ct {box-shadow: 0 0 30px #b9b9b9;}
+#ct  {box-shadow: 0 0 30px rgba(100, 100, 100, 0.4);}
 #ft .ct {box-shadow: 0 0 30px rgba(0,0,0,0.5);}
-
 
 
 #sw1 {}
@@ -361,10 +364,11 @@ background:url(/static/img/bgb.png) top;
 .fi {opacity: .9;}
 .fi:hover {opacity: 1; z-index: 1000; position:relative;}
 
-.mw { text-align:center; color: #999; font-size: 3.em;
+.mw   { text-align:center; color: #999; font-size: 3.em;
 /*font-family: Arial, Helvetica, sans-serif; */}
+
 #t2 { margin-top: -25px;}
-#pr{margin-top: 30px;}
+#pr  {margin-top: 30px;}
 
 #surprise {
   background: url('/static/img/footer-bg.png') no-repeat scroll top left;
