@@ -6,10 +6,9 @@ categories: word of-the-day
 ---
 
 
-##disintermediation
+`disintermediation`
 
-    disintermediation
-    [dɪsˌɪntəˌmiːdɪˈeɪʃən]
+`dɪsˌɪntəˌmiːdɪˈeɪʃən`
 
 
 In economics, disintermediation is the removal of intermediaries in a supply chain, or "cutting out the middleman". Instead of going through traditional distribution channels, which had some type of intermediate (such as a distributor, wholesaler, broker, or agent), companies may now deal with every customer directly, for example via the Internet. One important factor is a drop in the cost of servicing customers directly.

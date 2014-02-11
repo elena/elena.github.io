@@ -5,8 +5,6 @@ date: "2013-11-23 13:12:14 +1100"
 categories: word of-the-day
 ---
 
-deontic
-
 `de·on·tic`
 
 `dēˈäntik`

@@ -5,9 +5,9 @@ date: "2013-12-10 00:23:31 +1100"
 categories: word of-the-day
 ---
 
-    re·hearse
+`re·hearse`
 
-    riˈhərs
+`riˈhərs`
 
 verb
 

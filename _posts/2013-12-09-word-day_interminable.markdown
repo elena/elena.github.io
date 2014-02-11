@@ -5,20 +5,21 @@ date: "2013-12-09 01:55:19 +1100"
 categories: word of-the-day
 ---
 
-    in·ter·mi·na·ble
+`in·ter·mi·na·ble`
 
-    inˈtərmənəbəl
+`inˈtərmənəbəl`
 
 *adjective*
 
 adjective: interminable
 
-1. endless (often used hyperbolically).
+**endless** (often used hyperbolically).
+
 "we got bogged down in interminable discussions"
+
 synonyms:	(seemingly) endless, never-ending, unending, nonstop, everlasting, ceaseless, unceasing, incessant, constant, continual, uninterrupted, sustained;
 
-
-#### Origin
+ ** Origin **
 
 late Middle English: from Old French, or from late Latin interminabilis, from in- ‘not’ + terminare (see terminate).
 
@@ -32,4 +33,4 @@ This word `interminably` is used **regularly** by David, and he says it so artic
 
 This week he was reviewing 'Ender's Game'.
 
-> "... it was surprisingly dull, it's was a bit like standing a room where someone is playing a video game where you're not actually taking part but you have to watch interminably this game being played and really it's a bit boring ..."
+> "... it was surprisingly dull, it's was a bit like standing a room where someone is playing a video game where you're not actually taking part but you have to watch **interminably** this game being played and really it's a bit boring ..."
