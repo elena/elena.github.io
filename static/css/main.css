@@ -246,6 +246,7 @@ a {color: #6491b4;}
 a:visited {color: #888;}
 a:hover   {color: #254982;}
 h1, h2, h3, h4 {color: #7ba7ca; /*6491b4*/; margin: 1em 0; }
+blockquote {color: #aaa;}
 
 .ct h1 {margin: 0 0 1em 0; color: #999;}
 .ct h1, .ct h2, .ct h3, .ct h4 {text-shadow: 0 0 4px #222;}
