@@ -1,5 +1,4 @@
 name: Elena Williams
-markdown: redcarpet
 rouge: true
 
 permalink: /:year/:month/:day/:categories/:title.html
