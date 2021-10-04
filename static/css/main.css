@@ -277,7 +277,6 @@ body{background: url(/static/img/bg.jpg) #abd0ea no-repeat center top;}
 #crr, .rt, #rh {float: right;}
 
 .ct, #ct {max-width: 750px;}
-.ct, #ct {min-height: 600px;}
 .ct, #ct {margin: 45px auto 0 auto;}
 #sc, #fs {margin: 0 auto;}
 .ig {margin: 0 10px 5px 0;}
