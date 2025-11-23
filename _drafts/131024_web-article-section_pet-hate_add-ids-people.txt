@@ -1,3 +1,0 @@
-A1 pet-hate is when people don't put individual "#id" attributes on their articles, headers and sections.
-
-I want use #id attributes to link to particular bits of content regularly and I get sad and frustrated when I can't.
